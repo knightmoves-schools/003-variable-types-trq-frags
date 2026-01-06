@@ -3,7 +3,7 @@ public class VariableTypes
 {   
     public string AnimalName;
 
-    public char GradeLetter = A;
+    public char GradeLetter = 'a';
 
     public int year = 2026;
 
