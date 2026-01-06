@@ -1,7 +1,7 @@
 ﻿namespace knightmoves;
 public class VariableTypes
 {   
-    public string AnimalName;
+    public string AnimalName = "johndoe the 56th";
 
     public char GradeLetter = 'a';
 
