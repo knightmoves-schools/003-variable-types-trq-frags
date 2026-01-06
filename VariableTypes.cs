@@ -5,7 +5,7 @@ public class VariableTypes
 
     public char GradeLetter = 'a';
 
-    public int year = 2026;
+    public int Year = 2026;
 
     public double Height = 8.9;
 
