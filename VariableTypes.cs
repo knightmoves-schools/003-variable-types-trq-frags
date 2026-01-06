@@ -7,8 +7,8 @@ public class VariableTypes
 
     public int year = 2026;
 
-    public double Height = 6.2;
+    public double Height = 8.9;
 
-    public bool IsIndoorPet;
+    public bool IsIndoorPet = true;
 
 }
